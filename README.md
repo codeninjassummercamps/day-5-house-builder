@@ -19,7 +19,7 @@ loops.forever(function () {
 
 ## House Builder
 
-Welcome to the last main activity of this week of camp! Let's teach the agent to build a house. We'll start with the easier parts and work our way to the harder parts! This activity has a lot of steps and a lot of code, so make sure you are checking the hints and asking or help when you need it!
+Welcome to the last main activity of this week of camp! Let's teach the agent to build a house. We'll start with the easier parts and work our way to the harder parts! This activity has a lot of steps and a lot of code, so make sure you are checking the hints and asking for help when you need it!
 
 ## Step 1 
 
